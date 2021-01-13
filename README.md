@@ -1,3 +1,3 @@
-# joseph-davies-dot-dev
+# josephdavies-dot-dev
 
-Personal website of Joseph Davies to be hosted at joseph-davies.dev
+Personal website of Joseph Davies to be hosted at josephdavies.dev
